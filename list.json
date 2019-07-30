@@ -1,0 +1,27 @@
+[
+    {
+        "name":"assembly-guide",
+        "icon":"build",
+        "color":"primary"
+    },
+    {
+        "name":"setup-hand",
+        "icon":"hammer",
+        "color":"primary"
+    },
+    {
+        "name":"buttons-usage",
+        "icon":"switch",
+        "color":"success"
+    },
+    {
+        "name":"sensor-calib",
+        "icon":"pulse",
+        "color":"tertiary"
+    },
+    {
+        "name":"motors-calib",
+        "icon":"speedometer",
+        "color":"tertiary"
+    },
+]
