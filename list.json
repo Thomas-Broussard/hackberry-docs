@@ -1,27 +1,33 @@
 [
     {
+        "title":"Assembly Guide",
         "name":"assembly-guide",
         "icon":"build",
         "color":"primary"
     },
     {
+        "title":"Setup Hand",
         "name":"setup-hand",
         "icon":"hammer",
         "color":"primary"
     },
     {
+        "title":"Buttons Usage",
         "name":"buttons-usage",
         "icon":"switch",
         "color":"success"
     },
     {
+        "title":"Sensor Calibration",
         "name":"sensor-calib",
         "icon":"pulse",
         "color":"tertiary"
     },
     {
+        "title":"Motors Calibration",
         "name":"motors-calib",
         "icon":"speedometer",
         "color":"tertiary"
     }
 ]
+
