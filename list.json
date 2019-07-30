@@ -1,33 +1,51 @@
 [
     {
-        "title":"Assembly Guide",
-        "name":"assembly-guide",
+        "title-en":"Assembly Guide",
+        "title-fr":"Guide d'Assemblage",
+        "title-jp":"組立ガイド",
+
+        "filename":"assembly-guide",
         "icon":"build",
         "color":"primary"
     },
     {
-        "title":"Setup Hand",
-        "name":"setup-hand",
+        "title-en":"Setup Hand",
+        "title-fr":"Mise en Route",
+        "title-jp":"セットアップハンド",
+
+        "filename":"setup-hand",
+
         "icon":"hammer",
         "color":"primary"
     },
     {
-        "title":"Buttons Usage",
-        "name":"buttons-usage",
+        "title-en":"Buttons Usage",
+        "title-fr":"Les Boutons",
+        "title-jp":"ボタンの使い方",
+        
+        "filename":"buttons-usage",
+
         "icon":"switch",
         "color":"success"
     },
     {
-        "title":"Sensor Calibration",
-        "name":"sensor-calib",
+        "title-en":"Sensor Calibration",
+        "title-fr":"Etalonnage du Capteur",
+        "title-jp":"センサー校正",
+
+        "filename":"sensor-calib",
+
         "icon":"pulse",
         "color":"tertiary"
     },
     {
-        "title":"Motors Calibration",
-        "name":"motors-calib",
+        "title-en":"Motors Calibration",
+        "title-fr":"Etalonnage des Moteurs",
+        "title-jp":"エンジンの校正",
+
+        "filename":"motors-calib",
+
         "icon":"speedometer",
         "color":"tertiary"
     }
 ]
-
