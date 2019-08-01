@@ -6,7 +6,8 @@
 
         "filename":"assembly-guide",
         "icon":"build",
-        "color":"primary"
+        "color":"primary",
+        "version":0
     },
     {
         "title_en":"Setup Hand",
@@ -16,7 +17,8 @@
         "filename":"setup-hand",
 
         "icon":"hammer",
-        "color":"primary"
+        "color":"primary",
+        "version":0
     },
     {
         "title_en":"Buttons Usage",
@@ -26,7 +28,8 @@
         "filename":"buttons-usage",
 
         "icon":"switch",
-        "color":"success"
+        "color":"success",
+        "version":0
     },
     {
         "title_en":"Sensor Calibration",
@@ -36,7 +39,8 @@
         "filename":"sensor-calib",
 
         "icon":"pulse",
-        "color":"tertiary"
+        "color":"tertiary",
+        "version":0
     },
     {
         "title_en":"Motors Calibration",
@@ -46,6 +50,7 @@
         "filename":"motors-calib",
 
         "icon":"speedometer",
-        "color":"tertiary"
+        "color":"tertiary",
+        "version":0
     }
 ]
