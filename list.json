@@ -53,4 +53,18 @@
         "color":"tertiary",
         "version":1
     }
+    
+    {
+        "title_en":"Bluetooth Module MK2",
+        "title_fr":"Module Bluetooth MK2",
+        "title_jp":"ブルートゥースモジュールMK2",
+
+        "filename":"setup-bluetooth-mk2",
+
+        "icon":"bluetooth",
+        "color":"primary",
+        "version":0
+    }
+    
+    
 ]
