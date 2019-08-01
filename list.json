@@ -7,7 +7,7 @@
         "filename":"assembly-guide",
         "icon":"build",
         "color":"primary",
-        "version":1
+        "version":0
     },
     {
         "title_en":"Setup Hand",
@@ -40,7 +40,7 @@
 
         "icon":"pulse",
         "color":"tertiary",
-        "version":1
+        "version":0
     },
     {
         "title_en":"Motors Calibration",
@@ -51,7 +51,7 @@
 
         "icon":"speedometer",
         "color":"tertiary",
-        "version":1
+        "version":0
     },
     {
         "title_en":"Bluetooth Module MK2",
