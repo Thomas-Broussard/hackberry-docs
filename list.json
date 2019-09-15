@@ -29,7 +29,7 @@
 
         "icon":"switch",
         "color":"success",
-        "version":0
+        "version":1
     },
     {
         "title_en":"Sensor Calibration",
@@ -40,7 +40,7 @@
 
         "icon":"pulse",
         "color":"tertiary",
-        "version":0
+        "version":1
     },
     {
         "title_en":"Motors Calibration",
@@ -51,7 +51,7 @@
 
         "icon":"speedometer",
         "color":"tertiary",
-        "version":0
+        "version":1
     },
     {
         "title_en":"Bluetooth Module MK2",
